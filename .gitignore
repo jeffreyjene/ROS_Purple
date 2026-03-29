@@ -1,6 +1,7 @@
 .pio
 .vscode
-.build
-.install
-.log
-.ldlidar_stl_ros2
+build/
+install/
+log/
+ldlidar_stl_ros2
+yolov8n.pt

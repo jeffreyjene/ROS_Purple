@@ -24,6 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'tracker = vision.tracker_node:main',
+            'ball_tracker_color = vision.ball_tracker_color:main',
         ],
     },
 )
