@@ -1,0 +1,24 @@
+[2.065s] Invoking command in '/home/jeffreyjene/robot_ws/src/control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /home/jeffreyjene/robot_ws/build/control/build install --record /home/jeffreyjene/robot_ws/build/control/install.log --single-version-externally-managed install_data
+[2.480s] running egg_info
+[2.510s] writing ../../build/control/control.egg-info/PKG-INFO
+[2.510s] writing dependency_links to ../../build/control/control.egg-info/dependency_links.txt
+[2.515s] writing entry points to ../../build/control/control.egg-info/entry_points.txt
+[2.516s] writing requirements to ../../build/control/control.egg-info/requires.txt
+[2.517s] writing top-level names to ../../build/control/control.egg-info/top_level.txt
+[2.573s] reading manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[2.575s] writing manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[2.575s] running build
+[2.576s] running build_py
+[2.576s] copying control/arduino_bridge.py -> /home/jeffreyjene/robot_ws/build/control/build/lib/control
+[2.576s] running install
+[2.585s] running install_lib
+[2.614s] copying /home/jeffreyjene/robot_ws/build/control/build/lib/control/arduino_bridge.py -> /home/jeffreyjene/robot_ws/install/control/lib/python3.12/site-packages/control
+[2.614s] byte-compiling /home/jeffreyjene/robot_ws/install/control/lib/python3.12/site-packages/control/arduino_bridge.py to arduino_bridge.cpython-312.pyc
+[2.616s] running install_data
+[2.618s] running install_egg_info
+[2.645s] removing '/home/jeffreyjene/robot_ws/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info' (and everything under it)
+[2.647s] Copying ../../build/control/control.egg-info to /home/jeffreyjene/robot_ws/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info
+[2.648s] running install_scripts
+[2.847s] Installing arduino_bridge script to /home/jeffreyjene/robot_ws/install/control/lib/control
+[2.849s] writing list of installed files to '/home/jeffreyjene/robot_ws/build/control/install.log'
+[2.994s] Invoked command in '/home/jeffreyjene/robot_ws/src/control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /home/jeffreyjene/robot_ws/build/control/build install --record /home/jeffreyjene/robot_ws/build/control/install.log --single-version-externally-managed install_data

@@ -1,0 +1,19 @@
+[2.078s] Invoking command in '/home/jeffreyjene/robot_ws/src/description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/description build --build-base /home/jeffreyjene/robot_ws/build/description/build install --record /home/jeffreyjene/robot_ws/build/description/install.log --single-version-externally-managed install_data
+[2.531s] running egg_info
+[2.560s] writing ../../build/description/description.egg-info/PKG-INFO
+[2.561s] writing dependency_links to ../../build/description/description.egg-info/dependency_links.txt
+[2.567s] writing requirements to ../../build/description/description.egg-info/requires.txt
+[2.568s] writing top-level names to ../../build/description/description.egg-info/top_level.txt
+[2.627s] reading manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.628s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.629s] running build
+[2.629s] running build_py
+[2.629s] running install
+[2.640s] running install_lib
+[2.669s] running install_data
+[2.670s] running install_egg_info
+[2.702s] removing '/home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages/description-0.0.0-py3.12.egg-info' (and everything under it)
+[2.702s] Copying ../../build/description/description.egg-info to /home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages/description-0.0.0-py3.12.egg-info
+[2.703s] running install_scripts
+[2.916s] writing list of installed files to '/home/jeffreyjene/robot_ws/build/description/install.log'
+[3.065s] Invoked command in '/home/jeffreyjene/robot_ws/src/description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/description build --build-base /home/jeffreyjene/robot_ws/build/description/build install --record /home/jeffreyjene/robot_ws/build/description/install.log --single-version-externally-managed install_data

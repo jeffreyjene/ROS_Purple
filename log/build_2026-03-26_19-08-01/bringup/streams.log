@@ -1,0 +1,19 @@
+[2.233s] Invoking command in '/home/jeffreyjene/robot_ws/src/bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bringup build --build-base /home/jeffreyjene/robot_ws/build/bringup/build install --record /home/jeffreyjene/robot_ws/build/bringup/install.log --single-version-externally-managed install_data
+[2.710s] running egg_info
+[2.740s] writing ../../build/bringup/bringup.egg-info/PKG-INFO
+[2.742s] writing dependency_links to ../../build/bringup/bringup.egg-info/dependency_links.txt
+[2.743s] writing requirements to ../../build/bringup/bringup.egg-info/requires.txt
+[2.744s] writing top-level names to ../../build/bringup/bringup.egg-info/top_level.txt
+[2.806s] reading manifest file '../../build/bringup/bringup.egg-info/SOURCES.txt'
+[2.808s] writing manifest file '../../build/bringup/bringup.egg-info/SOURCES.txt'
+[2.811s] running build
+[2.811s] running build_py
+[2.812s] running install
+[2.822s] running install_lib
+[2.854s] running install_data
+[2.855s] running install_egg_info
+[2.892s] removing '/home/jeffreyjene/robot_ws/install/bringup/lib/python3.12/site-packages/bringup-0.0.0-py3.12.egg-info' (and everything under it)
+[2.895s] Copying ../../build/bringup/bringup.egg-info to /home/jeffreyjene/robot_ws/install/bringup/lib/python3.12/site-packages/bringup-0.0.0-py3.12.egg-info
+[2.905s] running install_scripts
+[3.166s] writing list of installed files to '/home/jeffreyjene/robot_ws/build/bringup/install.log'
+[3.308s] Invoked command in '/home/jeffreyjene/robot_ws/src/bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bringup build --build-base /home/jeffreyjene/robot_ws/build/bringup/build install --record /home/jeffreyjene/robot_ws/build/bringup/install.log --single-version-externally-managed install_data

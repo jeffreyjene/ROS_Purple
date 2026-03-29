@@ -1,0 +1,2 @@
+[console_scripts]
+arduino_bridge = control.arduino_bridge:main

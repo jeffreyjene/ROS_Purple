@@ -1,0 +1,21 @@
+[1.561s] Invoking command in '/home/jeffreyjene/robot_ws/src/description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/description build --build-base /home/jeffreyjene/robot_ws/build/description/build install --record /home/jeffreyjene/robot_ws/build/description/install.log --single-version-externally-managed install_data
+[1.937s] running egg_info
+[1.962s] writing ../../build/description/description.egg-info/PKG-INFO
+[1.962s] writing dependency_links to ../../build/description/description.egg-info/dependency_links.txt
+[1.962s] writing requirements to ../../build/description/description.egg-info/requires.txt
+[1.963s] writing top-level names to ../../build/description/description.egg-info/top_level.txt
+[2.015s] reading manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.016s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.017s] running build
+[2.017s] running build_py
+[2.017s] running install
+[2.027s] running install_lib
+[2.053s] running install_data
+[2.053s] copying meshes/my_turtlebot.stl -> /home/jeffreyjene/robot_ws/install/description/share/description/meshes
+[2.056s] copying launch/display.launch.py -> /home/jeffreyjene/robot_ws/install/description/share/description/launch
+[2.057s] running install_egg_info
+[2.084s] removing '/home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages/description-0.0.0-py3.12.egg-info' (and everything under it)
+[2.084s] Copying ../../build/description/description.egg-info to /home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages/description-0.0.0-py3.12.egg-info
+[2.085s] running install_scripts
+[2.274s] writing list of installed files to '/home/jeffreyjene/robot_ws/build/description/install.log'
+[2.384s] Invoked command in '/home/jeffreyjene/robot_ws/src/description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeffreyjene/robot_ws/build/description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeffreyjene/robot_ws/install/description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/description build --build-base /home/jeffreyjene/robot_ws/build/description/build install --record /home/jeffreyjene/robot_ws/build/description/install.log --single-version-externally-managed install_data
