@@ -56,8 +56,8 @@ class TennisBallTracker(Node):
         if contours:
             largest = max(contours, key=cv2.contourArea)
             area = cv2.contourArea(largest)
-
-            if area > 300:
+            
+            if area > 200:
                 found = True
 
                 (x, y, w, h) = cv2.boundingRect(largest)
